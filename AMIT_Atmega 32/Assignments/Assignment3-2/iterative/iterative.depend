@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1660404057 source:c:\users\mohammed\desktop\cb\iterative\main.c
+	<stdio.h>
+	<stdlib.h>
+

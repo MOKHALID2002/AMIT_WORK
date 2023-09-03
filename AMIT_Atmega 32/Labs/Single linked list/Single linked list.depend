@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1661175755 source:c:\users\mohammed\desktop\cb\single linked list\main.c
+	<stdio.h>
+	<stdlib.h>
+	"single linked list.h"
+
+1661175547 c:\users\mohammed\desktop\cb\single linked list\single linked list.h
+
+1661175729 source:c:\users\mohammed\desktop\cb\single linked list\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	"single linked list.h"
+

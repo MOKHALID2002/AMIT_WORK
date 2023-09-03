@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1661644148 source:c:\users\ma_ma\onedrive\documents\c prog\project1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Headers.h"
+
+1661462693 c:\users\ma_ma\onedrive\documents\c prog\project1\headers.h
+
+1661644547 source:c:\users\mohammed\desktop\project1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Headers.h"
+
+1661462693 c:\users\mohammed\desktop\project1\headers.h
+

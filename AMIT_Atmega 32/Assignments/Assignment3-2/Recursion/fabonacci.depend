@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1660402562 source:c:\users\mohammed\desktop\cb\fabonacci\main.c
+	<stdio.h>
+	<stdlib.h>
+
